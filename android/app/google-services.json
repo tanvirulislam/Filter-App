@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1008192965033",
+    "project_id": "genie-task",
+    "storage_bucket": "genie-task.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1008192965033:android:c0205bd7858eb5b9fadcb8",
+        "android_client_info": {
+          "package_name": "com.example.genie_task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1008192965033-ajq05cesskq44vmjl8rdj0bksur4st3c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.genie_task",
+            "certificate_hash": "09e840f6b857e1391707243e8caea752c6fcbd89"
+          }
+        },
+        {
+          "client_id": "1008192965033-3kjeeghu778t351enk897j4rvmgpeir0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTjiHQIeA9tSSuAxegopupdYSLDSs-YWE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1008192965033-3kjeeghu778t351enk897j4rvmgpeir0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
